@@ -1,0 +1,27 @@
+# Vibe Code System — Public Distribution Repository
+# All proprietary source code and development files are excluded.
+*
+!README.md
+!docs/
+!docs/**
+!assets/
+!assets/**
+!screenshots/
+!screenshots/**
+!ui/
+!ui/mailmimic.svg
+!*.vsix
+!*.zip
+!*.tar.gz
+!*.tgz
+!*.whl
+!*.dmg
+!*.exe
+!*.msi
+!*.deb
+!*.rpm
+!*.appimage
+!*.pkg
+!*.apk
+!*.jar
+!.gitignore
